@@ -1,3 +1,47 @@
-.bg-cover {
-    background-size: cover;
+.bg-brown {
+
+background-color: #f3e3d3;
 }
+
+.bg-grey-header {
+background-color:#c98860;
+}
+
+.font-barlow {
+font-family: "Barlow", Arial;
+}
+
+.flex {
+display: flex;
+
+}
+.justify-center {
+justify-content: center;
+}
+
+
+.pt-4{
+padding-top: 5rem;
+}
+
+.uppercase {
+text-transform: uppercase;
+} 
+
+.list-none {
+list-style-type: none;
+}
+
+.no-underline {
+text-decoration: none;
+}
+.mx-10 {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.items-center{
+align-items: center;
+}
+
+}
+
