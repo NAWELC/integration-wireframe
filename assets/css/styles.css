@@ -83,7 +83,7 @@
   align-items: center;
 }
 
-.row {
+.flex-row {
   flex-direction: row;
 }
 
@@ -126,7 +126,7 @@
 }
 
 .mr-4 {
-  margin-right: 3rem;
+  margin-right: 2rem;
 }
 
 .mr-5 {
@@ -159,23 +159,23 @@
 }
 
 .fa-fw{
-  width: 1px;
+  width: 10px;
 }
 
 .fa-2xl {
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .fa-icon{
   background-color: papayawhip;
-  border-radius: 0.9em;
-  padding: 0.5em;
+  border-radius: 10em;
+  padding: 0.7em;
 }
 
 .br-logo {
   background-color: white;
   border-radius: 0.3em;
-  padding: 0.2em;
+  padding: 0.4em;
 }
 
 .my-8 {
