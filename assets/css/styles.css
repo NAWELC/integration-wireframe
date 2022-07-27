@@ -64,14 +64,45 @@
   text-transform: uppercase;
 }
 
+.w-72 {
+  width: 300px;
+}
+
+
+.bg-cover {
+  background-size: cover;
+}
+
+/* Supperposer texte sur image ou autres... */
+
+.z-0 {        
+  z-index: 0;
+}
+
+.z-10 {
+  z-index: ;
+}
+
 /* DISPLAY */
 
 .grid {
   display: grid;
 }
 
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .grid-cols-3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-rows-3 {
+  grid-template-rows: repeat(3, minmax(0, 1fr));
+}
+
+.grid-rows-2 {
+  grid-template-rows: repeat(2, minmax(0, 1fr));
 }
 
 .flex {
@@ -130,12 +161,20 @@
   justify-items: flex-start;
 }
 
+.m-0 {
+  margin: 0;
+}
+
 .mr-2 {
   margin-right: 9rem;
 }
 
 .mr-4 {
   margin-right: 10rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
 }
 
 .mt-4 {
@@ -195,13 +234,14 @@
   padding-right: 4rem;
 }
 
+.px-6 {
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
 .py-2 {
   padding-top: 1rem;
   padding-bottom: 1rem;
-}
-
-.bottom-0 {
-  bottom: 0px;
 }
 
 .w-screen {
