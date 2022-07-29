@@ -13,22 +13,23 @@ Pour commencer, nous avons à travers le terminal de VS Code, crée la base de n
 
 Le travail a été séparé en deux
 
-=> Deux branches respectives ont été crées sur VS Code.
-=> Nawel s'est occupé du Header en incluant une nav bar, logo.
-=> Le body a été fait par Nawel et Priska
-=> Priska a effectué le footer, avec logo, liens réseaux sociaux et mentions légales.
+- Deux branches respectives ont été crées sur VS Code.
+- Nawel s'est occupé du Header en incluant une nav bar, logo.
+- Le body a été fait par Nawel et Priska
+- Priska a effectué le footer, avec logo, liens réseaux sociaux et mentions légales.
 
 > Une Charte graphique a également été utilisé afin de respecter l'interface graphique du projet.
-> A la fin du projet, le README a été finalisé
-> Merge effectué sur la branche main via le terminal
-> Mise en production effectué sur le logiciel **FileZilla**
+ A la fin du projet, le README a été finalisé
+ Merge effectué sur la branche main via le terminal
+
+- Mise en production effectué sur le logiciel **FileZilla**
 
 ## CSS utilisés
 
 Nous avons utilisé deux nouvelles fonctions afin de positionner et organiser nos élements :
 
-**Flexbox**
-**Grid**
+- **Flexbox** 
+- **Grid**
 
 > Le framework **Tailwind** CSS a également été utilisé
 
