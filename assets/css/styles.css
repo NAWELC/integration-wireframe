@@ -73,16 +73,6 @@
   background-size: cover;
 }
 
-/* Supperposer texte sur image ou autres... */
-
-.z-0 {        
-  z-index: 0;
-}
-
-.z-10 {
-  z-index: 1;
-}
-
 /* DISPLAY */
 
 .grid {
@@ -244,6 +234,10 @@
   padding-bottom: 1rem;
 }
 
+.b-0 {
+  bottom: 0px;
+}
+
 .w-screen {
   width: 100vw;
 }
@@ -256,6 +250,18 @@
   border-radius: 9999px;
 }
 
-.position {
-  position: relative;
+.absolute {
+  position: absolute;
+}
+
+.h-12 {
+  height: 50px;
+}
+
+.r-0 {
+  right: 0;
+}
+
+.l-0 {
+  left: 0;
 }
