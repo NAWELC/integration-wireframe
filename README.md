@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# to do 
-
--faire la nav bar 
-=======
 # OnlineFormaPro - ACS 2022 - Projet Intégration Wireframe
 
 Dans ce projet d'intégration wireframe effectué par groupe de deux, nous avons appris à nous familiariser avec les languages HTML et CSS; découvrir les bonnes pratiques et conventions de développement; nous familiariser avec l'éditeur VS Code, les serveurs FTP, GitHub et le terminal BASH.
@@ -63,4 +58,3 @@ Nous avons utilisé deux nouvelles fonctions afin de positionner et organiser no
 - [Codepip/ Grid Garden](https://codepip.com/games/grid-garden/)
 
 
->>>>>>> a1735cb5f7fbf4c0b2d00a6d79c0412f9ef5c89a
