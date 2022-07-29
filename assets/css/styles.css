@@ -83,7 +83,7 @@ text-decoration: none;
 }
     
 .text-xs{
-    font-size:2rem;
+    font-size: 2rem;
 }
 
 .justify-start{
@@ -128,9 +128,6 @@ text-decoration: none;
 .col-end-3{
     grid-column-end: 3;
 }
-.rounded-full{
-    border-radius: 9999px;
-}
 
 /* TEXT COLOR */
 
@@ -147,9 +144,8 @@ text-decoration: none;
 }
 
 /* BACKGROUND COLOR */
-
 .bg-beige-100 {
-  background-color: #f3e3d3;
+  background-color: #dbc5ae;
 }
 
 .bg-beige-200 {
@@ -168,10 +164,6 @@ text-decoration: none;
 
 .font-barlow {
   font-family: "Barlow", "PT Sans", Arial, Helvetica, sans-serif;
-}
-
-.font-bold {
-  font-weight: bold;
 }
 
 .no-underline {
@@ -199,7 +191,7 @@ text-decoration: none;
 }
 
 .w-72 {
-  width: 300px;
+  width: 800px;
 }
 
 
@@ -368,8 +360,13 @@ text-decoration: none;
   padding-bottom: 1rem;
 }
 
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .w-screen {
-  width: 100vh;
+  width: 100vw;
 }
 
 .w-1 {
@@ -380,22 +377,38 @@ text-decoration: none;
   border-radius: 9999px;
 }
 
+.rounded-md {
+  border-radius: 0.35rem;
+}
+
+.shadow-xl {
+  box-shadow: 0 20px 25px -5px rgba(156, 89, 23, 0.211), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+.ring-2 {
+  box-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+
+}
+.ring-beige-200 {
+  background-color: #e2d7cc4f;
+}
+
 .h-12 {
   height: 50px;
 }
 
-.min-h {
+.h-min {
   min-height: 100vh;
 }
 
-.w-10 {
+.w-full {
 width: 100%;
 }
 
-.h-5 {
+.h-20 {
   height: 5rem;
 }
 
-.mt {
+.margin {
   margin-top: auto;
 }
