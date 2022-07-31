@@ -21,8 +21,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
-  <body class="h-min font-barlow flex flex-col bg-beige-300">
-    <header class="bg-beige-200 text-black font-barlow w-screen">
+  <body class="h-min font-barlow flex flex-col bg-beige-300 w-screen m-0">
+    <header class="bg-beige-200 text-black font-barlow">
       <div class="flex justify-start">
         <img
           class="rounded-full mt-4 pl-2"
@@ -121,24 +121,26 @@
         </div>
       </div>
     </section>
-    <footer
-      class="bg-beige-200 text-black font-barlow grid grid-cols-3 w-full h-20 margin"
-    >
-      <section class="flex">
-        <div class="">
-          <img
-            class="rounded-full"
-            src="./assets/img/logo-boxe.png"
-            alt="logo"
-            width="80px"
-            height="auto"
-          />
-        </div>
-        <p class="italic flex items-end">
-          Blog Nawel 2022 || Tous droits réservés
-        </p>
+    <footer class="text-black font-barlow w-full h-20 margin">
+      <section class="bg-beige-200 grid grid-cols-3">
+        <section class="grid grid-rows-2">
+          <div class="flex justify-center items-end mr-4">
+            <a href="./index.html">
+              <img
+              class="rounded-full"
+              src="./assets/img/logo-boxe.png"
+              alt="logo"
+              width="100px"
+              height="auto"
+              />
+            </a>
+          </div>
+          <p class="italic flex items-end justify-center mr-2">
+            Blog Nawel 2022 || Tous droits réservés
+          </p>
+        </section>
         <section>
-          <div class="flex items-end justify-center">
+          <div class="flex justify-center">
             <ul
               class="list-none flex flex-row space-between text-lg font-bold pr-6"
             >
@@ -192,13 +194,13 @@
             </ul>
           </div>
           <p class="text-white flex items-end justify-center mr-4">
-            Made with <span class="text-red">♥️</span> by Priska
+            Made with <span class="text-red" style="margin-left: 4px; margin-right: 4px;">♥️</span>by<a href="https://github.com/PriskaSama" class="no-underline text-white" style="margin-left: 4px;">Priska</a> 
           </p>
         </section>
-        <section>
-          <div class="flex text-lg uppercase">
+        <section class="flex justify-center">
+          <div class="text-lg uppercase">
             <p>Suivez-nous !</p>
-            <div class="flex flex-row justify-center mb-4">
+            <div class="flex flex-row justify-center pt-2">
               <span class="flex flex-col justify-around">
                 <i
                   class="fa-brands fa-facebook fa-bounce text-2xl bg-beige-300 w-1 p-0 rounded-full"
