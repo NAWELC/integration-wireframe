@@ -38,15 +38,15 @@ Nous avons utilisé deux nouvelles fonctions afin de positionner et organiser no
 ![Blog Nawel](./assets/img/Screenshot-blognawel.png)
 ![Blog Nawel](./assets/img/Screenshot-blognawel-2.png)
 
-## 🔗 Liens
+## 🔗 Liens vers le projet
 
 - [GitHub](https://github.com/NAWELC/landing-page.git)
 - [Serveur public](https://priscad.promo-171.codeur.online/landing-page/)
 
 ## Contact
 
-- Nawel Chaib 👩🏻‍💻 [GitHub/Nawel]()
-- Priska Derville 👩🏾‍💻 [GitHub/Priska]()
+- Nawel Chaib 👩🏻‍💻 [GitHub/Nawel](https://github.com/NAWELC)
+- Priska Derville 👩🏾‍💻 [GitHub/Priska](https://github.com/PriskaSama)
 
 ## Ressources
 
@@ -64,7 +64,7 @@ Nous avons utilisé deux nouvelles fonctions afin de positionner et organiser no
 - [Codepip/ Grid Garden](https://codepip.com/games/grid-garden/)
 
 
-# EN VERSION - OnlineFormaPro - ACS 2022 - Wireframe Intregration Project
+# EN version - OnlineFormaPro - ACS 2022 - Wireframe Intregration Project
 
 In this wireframe integration project done in groups of two, we learned to familiarize ourselves with the HTML and CSS languages; to discover the good practices and conventions of development; to familiarize with the VS Code editor, the FTP servers, GitHub and the BASH terminal.
 
@@ -104,17 +104,17 @@ We used two new functions to position and organize our elements:
 ![Blog Nawel](./assets/img/Screenshot-blognawel.png)
 ![Blog Nawel](./assets/img/Screenshot-blognawel-2.png)
 
-## 🔗 Liens
+## 🔗 Links to the project
 
 - [GitHub](https://github.com/NAWELC/landing-page.git)
 - [Serveur public](https://priscad.promo-171.codeur.online/landing-page/)
 
 ## Contact
 
-- Nawel Chaib 👩🏻‍💻 [GitHub/Nawel]()
-- Priska Derville 👩🏾‍💻 [GitHub/Priska]()
+- Nawel Chaib 👩🏻‍💻 [GitHub/Nawel](https://github.com/NAWELC)
+- Priska Derville 👩🏾‍💻 [GitHub/Priska](https://github.com/PriskaSama)
 
-## Ressources
+## Appendix
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Google](https://www.google.fr/)
